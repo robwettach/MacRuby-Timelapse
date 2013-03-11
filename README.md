@@ -9,3 +9,5 @@ This assumes there is a directory called `output` under the current directory an
 
 To run, just type:
 `./time_lapse.rb`
+
+Just press `CTRL-C` when you want to stop taking pictures. 
